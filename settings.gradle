@@ -1,0 +1,2 @@
+rootProject.name = "Demo database CRUD L09"
+include ':app'
